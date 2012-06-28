@@ -1,0 +1,1 @@
+A simple to-do application built with Backbone.js and Underscore.js
